@@ -7,4 +7,4 @@ Aplicação para detecção de vacas utilizando ssd em python
     cd Rastrador-de-Vacas
     pip3 install -r requirements.txt
 ## Execução
-    python3 main.py
+    python3 Main.py
