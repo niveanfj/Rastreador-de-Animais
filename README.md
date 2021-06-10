@@ -1,4 +1,4 @@
-# Rastreador de Vacas
+# Rastreador de Animais
 Aplicação para detecção de vacas utilizando ssd em python
 ## Instalação
 #### Clonar o repositório
